@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Elif 👋! </h1>
+<h1 align="center"> I'm Elif 👋! </h1>
 <p align="center">
   <i>A passionate web developer focused on modern frontend technologies and creative UI design.</i><br/>
   💻 Web Design & Development enthusiast | 19 y.o. software explorer
